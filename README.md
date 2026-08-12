@@ -1,8 +1,8 @@
-##Logistics Cost & Delivery Performance Analytics
+Logistics Cost & Delivery Performance Analytics
 
 This project analyzes 180,519 orders from the DataCo Smart Supply Chain dataset to evaluate delivery performance, cost, and risk across global shipping regions. The pipeline cleans and processes raw order data in Python, computes KPIs (on-time delivery rate, average delay days, cost/profit by region, monthly trends), and applies a statistical anomaly-detection method to flag region-month combinations where on-time delivery falls significantly below the network average. The analysis surfaced a temporal pattern — high-risk delivery failures clustered in Aug–Dec 2016 across multiple unrelated regions — pointing to a network-wide seasonal capacity issue rather than isolated regional problems. Outputs are exported as clean CSV summaries ready for dashboarding in Excel or Power BI.
 
-#Recommendation
+Recommendation
 
 Looking at your risk-flagged periods, the standout insight isn't which region is worst — it's the timing. All 10 high-risk flags cluster almost entirely in August–December 2016, hitting five unrelated regions across three continents (Central Asia, Eastern Asia, Northern Europe, Southern Europe, Western Europe) within the same few months. If the problem were regional (bad local carrier, customs issues in one country), you'd expect scattered flags across different time periods. Instead, multiple disconnected regions failing simultaneously points to a systemic, network-wide capacity issue — most likely peak-season order volume outpacing shipping capacity, rather than a region-specific operational failure.
 
