@@ -1,0 +1,24 @@
+order_region,avg_order_value,avg_profit_per_order,avg_profit_margin,total_orders
+West Asia,175.75,19.77,0.12,6009
+Oceania,178.36,19.85,0.11,10148
+Central Africa,174.66,19.94,0.11,1677
+North Africa,177.06,19.99,0.12,3232
+Eastern Asia,183.28,20.24,0.11,7280
+Eastern Europe,177.63,20.34,0.11,3920
+West of USA ,176.69,20.64,0.12,7993
+Caribbean,178.13,20.66,0.12,8318
+South Asia,180.75,21.43,0.12,7731
+West Africa,176.99,21.65,0.12,3696
+Central America,179.73,21.75,0.12,28341
+South of  USA ,174.76,21.78,0.12,4045
+Southeast Asia,182.26,22.16,0.12,9539
+US Center ,175.66,22.27,0.12,5887
+South America,178.12,22.44,0.12,14935
+East of USA,178.16,22.6,0.13,6915
+Western Europe,195.36,23.07,0.12,27109
+East Africa,182.53,23.31,0.14,1852
+Central Asia,177.13,23.59,0.13,553
+Northern Europe,198.06,23.84,0.12,9792
+Southern Europe,194.84,24.48,0.13,9431
+Canada,175.45,24.92,0.14,959
+Southern Africa,176.58,26.64,0.15,1157
